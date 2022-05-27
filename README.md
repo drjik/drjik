@@ -12,4 +12,4 @@ I'm learning Front-End and learning Java for Back-End. As you might guess, I wan
 ## Contacts
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Vk)](https://vk.com/maripov5)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/MDiyart)
-![Discord](https://img.shields.io/badge/-drjik%232450-090909?style=for-the-badge&logo=Discord)
+![Discord](https://img.shields.io/badge/-drjikk%236666-090909?style=for-the-badge&logo=Discord)
